@@ -11,7 +11,7 @@ conda env create -f xtalnet.yaml
 Installation time depends on the internet connection.
 
 ### Data Preparation
-Download the data from [here](https://drive.google.com/drive/folders/1F76mhwzI1FVbUDYblMw-B1eJF9X1Cxc9?usp=drive_link)
+Download data and checkpoints from [here](https://zenodo.org/records/13629658)
 
 Change `root_path` in `conf/data/hmof_100.yaml` and `conf/data/hmof_400.yaml` to the path of the downloaded `hmof_100` dir path and `hmof_400` dir path.
 

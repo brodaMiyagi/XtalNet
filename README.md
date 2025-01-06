@@ -1,4 +1,14 @@
-# End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction
+# XtalNet: End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction
+
+Implementation codes for End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction (**XtalNet**)
+
+*Advanced Science* [[paper](https://doi.org/10.1002/advs.202410722)][[arXiv](https://arxiv.org/abs/2401.03862)]
+
+![Overview](fig/overview.png "Overview")
+
+XtalNet is the first equivariant deep generative model for end-to-end crystal structure prediction from Powder X-Ray Diffraction. XtalNet aims to extend the capabilities of deep learning in predicting crystal structures based on PXRD patterns, encompassing more complex structures and specific conditions. 
+
+
 
 ### Dependencies and Setup
 Codes are tested on Ubuntu 20.04

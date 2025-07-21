@@ -1,4 +1,4 @@
-root_path: hmof_400_path
+root_path: "XtalNet_data/hmof_400"
 max_atoms: 100
 
 train_max_epochs: 400

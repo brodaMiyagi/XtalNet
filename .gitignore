@@ -131,3 +131,5 @@ dmypy.json
 
 ckpt/
 XtalNet_data/
+hydra/
+wabdb/

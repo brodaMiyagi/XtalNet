@@ -1,4 +1,4 @@
-root_path: "XtalNet_data/hmof_100"
+root_path: "/home_network/sdas/Projects/crystalai-gen/XtalNet/XtalNet_data/hmof_100"
 max_atoms: 100
 
 train_max_epochs: 400

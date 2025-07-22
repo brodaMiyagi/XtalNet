@@ -133,3 +133,5 @@ ckpt/
 XtalNet_data/
 hydra/
 wabdb/
+outputs/
+.gradio/
